@@ -7,4 +7,8 @@
 # Doing this not only helps to improve my fundamentals in Python and teach me new ____, but also gives me the tools to complete my own, more complex engineering projects alongside my degree.
 
 # Contents
-# 
+# - figures/
+# - notebooks/
+#     random_numbers.ipynb
+#     monte_carlo_simulation.ipynb
+# - scripts/
