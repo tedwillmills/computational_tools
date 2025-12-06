@@ -8,8 +8,8 @@ This repository takes content covered in my Computationl Tools lectures and expa
 ## Contents
 - figures/
 - notebooks/
-    - random_numbers.ipynb HAVE ONE SENTENCE SUMMARIES OF EACH NOTEBOOK
-    - monte_carlo_simulation.ipynb
+    - random_numbers.ipynb - Linear Congruential Generator (LCG) for pseudo-random numbers using 'Numerical Recipes' parameter set, scatter and histogram plotting; inverse transform sampling for exponential distribution, PDF and quantile function plotting for varying λ
+    - monte_carlo_simulation.ipynb - simulation of a biased six-sided die, histogram plot and comparison with normal distribution (CLT)
 - scripts/
 
 ## Example Outputs
