@@ -8,10 +8,29 @@ This repository takes content covered in my Computationl Tools lectures and expa
 ## Contents
 - figures/
 - notebooks/
-    - random_numbers.ipynb - Linear Congruential Generator (LCG) for pseudo-random numbers using 'Numerical Recipes' parameter set, scatter and histogram plotting; inverse transform sampling for exponential distribution, PDF and quantile function plotting for varying λ
     - monte_carlo_simulation.ipynb - simulation of a biased six-sided die, histogram plot and comparison with normal distribution (CLT)
+    - random_numbers.ipynb - Linear Congruential Generator (LCG) for pseudo-random numbers using 'Numerical Recipes' parameter set, scatter and histogram plotting; inverse transform sampling for exponential distribution, PDF and quantile function plotting for varying λ
 - scripts/
 
 ## Example Outputs
 
 ## Lessons Learnt
+I have developed my understanding in the following areas:
+- creating and improving functions
+- using for loops to iterate processes
+- plotting curves, histograms and scatter graphs for data analysis
+- using libraries like NumPy and Matplotlib
+ 
+It has also been interesting to use and work upon statistical principles that I studied in Further Maths A Level in Python. Concepts like the Central Limit Theorem (CLT), PDFs, CDFs, uniform and non-uniform distributions (binomial, normal, exponential) and inverse functions are all areas that I have learnt about, but actually putting them into practice and implementing them into Python scripts has been very rewarding.
+
+I have also grown to appreciate the shear power of Python in running simulations and lengthy scripts, something I look forward to harnessing in more projects going forwards.
+
+## Future Plans
+There are a number of projects I would like to attempt over the coming months (this list will likely update and change as these are completed):
+- aerofoil optimisation script
+- flight trajectory simulation
+- more extensive work with Monte Carlo simulations
+- NASA data analysis using open datasets
+- any other tasks relevant to engineering and the aerospace industry
+
+I am currently working on an RC plane project outside of my degree, so I am hoping to incorporate Python into its design and improvements. With than in mind, this may become a large source of potential Python scripts in the future. For example, optimisation of variables like L/D and a simple deskop GUI to visualise its perfomance are avenues that I would like to explore.
