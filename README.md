@@ -33,4 +33,4 @@ There are a number of projects I would like to attempt over the coming months (t
 - NASA data analysis using open datasets
 - any other tasks relevant to engineering and the aerospace industry
 
-I am currently working on an RC plane project outside of my degree, so I am hoping to incorporate Python into its design and improvements. With than in mind, this may become a large source of potential Python scripts in the future. For example, optimisation of variables like L/D and a simple deskop GUI to visualise its perfomance are avenues that I would like to explore.
+I am currently working on an RC plane project outside of my degree, so I am hoping to incorporate Python into its design and improvements. With than in mind, this may become a large source of potential Python scripts in the future. As examples, I would like to explore methods for optimisation of variables like L/D, and a simple deskop GUI to visualise the plane's perfomance.
