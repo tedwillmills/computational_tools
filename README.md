@@ -14,6 +14,8 @@ This repository takes content covered in my Computationl Tools lectures and expa
 
 ## Example Outputs
 
+
+
 ## Lessons Learnt
 I have developed my understanding in the following areas:
 - creating and improving functions
