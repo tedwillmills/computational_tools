@@ -16,13 +16,13 @@ figures/
 
 notebooks/
 - monte_carlo_simulation.ipynb
-    - simulation of a biased six-sided die (1000 x 2000 samples)
-    - histogram plot and comparison with normal distribution to demonstrate CLT
-    - statistical analysis (mean, median, std)
+    - Simulation of a biased six-sided die (1000 x 2000 samples)
+    - Histogram plot and comparison with normal distribution to demonstrate CLT
+    - Statistical analysis (mean, median, std)
 - random_numbers.ipynb
     - Linear Congruential Generator (LCG) for pseudo-random numbers using 'Numerical Recipes' parameter set
-    - scatter and histogram plotting
-    - inverse transform sampling for exponential distribution
+    - Scatter and histogram plotting
+    - Inverse transform sampling for exponential distribution
     - PDF and quantile function plotting for varying λ
 
 scripts/
