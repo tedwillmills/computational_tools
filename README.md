@@ -3,7 +3,7 @@
 A collection of Python simulations and numerical methods as part of my ongoing work on random numbers and Monte Carlo simulations, including PRNGs, inverse transform sampling and data analysis.  
 
 ## Purpose
-This repository expands upon content covered in my Computationl Tools lectures through various projects as I attempt to learn code beyond the syllabus. The aim of this repository is to build practical experience in simulation algorithms, data manipulation and optimisation.Doing this not only helps to improve my fundamentals in Python and teaches me new tools, but also gives me the skills to complete my own, more complex engineering projects alongside my degree. and 
+This repository expands upon content covered in my Computationl Tools lectures through various projects as I attempt to learn code beyond the syllabus. The aim of this repository is to build practical experience in simulation algorithms, data manipulation and optimisation. Doing this not only helps to improve my fundamentals in Python and teaches me new tools, but also gives me the skills to complete my own, more complex engineering projects alongside my degree.
 
 ## Contents
 figures/
@@ -16,9 +16,9 @@ figures/
 
 notebooks/
 - monte_carlo_simulation.ipynb
-    - simulation of a biased six-sided die (1000 x 2000 samples)
-    - histogram plot and comparison with normal distribution to demonstrate CLT
-    - statistical analysis (mean, median, std)
+    - Simulation of a biased six-sided die (1000 x 2000 samples)
+    - Histogram plot and comparison with normal distribution to demonstrate CLT
+    - Statistical analysis (mean, median, std)
 - random_numbers.ipynb
     - Linear Congruential Generator (LCG) for pseudo-random numbers using 'Numerical Recipes' parameter set
     - Scatter and histogram plotting
