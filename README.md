@@ -1,6 +1,6 @@
 # Computational Tools
 
-A collection of Python simulations and numerical methods as part of my ongoing work on random numbers and Monte Carlo simulations, including PRNGs, inverse transform sampling and data analysis.  
+A collection of Python simulations and numerical methods as part of my ongoing work on random numbers and Monte Carlo simulations, including PRNGs, inverse transform sampling, rejection sampling and data analysis.  
 
 ## Purpose
 This repository expands upon content covered in my Computationl Tools lectures through various projects as I attempt to learn code beyond the syllabus. The aim of this repository is to build practical experience in simulation algorithms, data manipulation and optimisation. Doing this not only helps to improve my fundamentals in Python and teaches me new tools, but also gives me the skills to complete my own, more complex engineering projects alongside my degree.
@@ -24,6 +24,8 @@ notebooks/
     - Scatter and histogram plotting
     - Inverse transform sampling for exponential distribution
     - PDF and quantile function plotting for varying λ
+    - Rejection sampling for normal distribution
+    - Histogra and scatter plots for accepted-rejected samples
 
 scripts/
 
@@ -48,6 +50,7 @@ I have demonstrated and improved my competency in the following skills in writin
 - inverse transform sampling
 - data visualisation through Matplotlib
 - statistical analysis (CLT, non-uniform distributions)
+- rejection sampling
 
 ## Lessons Learnt
 Through this repository, I have developed my understanding in the following areas:
