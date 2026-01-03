@@ -57,6 +57,8 @@ I have demonstrated and improved my competency in the following skills in writin
 - data visualisation through Matplotlib
 - statistical analysis (CLT, non-uniform distributions)
 - rejection sampling
+- parameter modelling (MLE)
+- goodness of fit tests (K-S)
 
 ## Lessons Learnt
 Through this repository, I have developed my understanding in the following areas:
