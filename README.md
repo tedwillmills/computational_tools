@@ -3,7 +3,7 @@
 A collection of Python simulations and numerical methods as part of my ongoing work on random numbers and Monte Carlo simulations, including PRNGs, inverse transform sampling, rejection sampling and data analysis.  
 
 ## Purpose
-This repository expands upon content covered in my Computationl Tools lectures through various projects as I attempt to learn code beyond the syllabus. The aim of this repository is to build practical experience in simulation algorithms, data manipulation and optimisation. Doing this not only helps to improve my fundamentals in Python and teaches me new tools, but also gives me the skills to complete my own, more complex engineering projects alongside my degree.
+This repository expands upon content covered in my Computational Tools lectures through various projects as I attempt to learn code beyond the syllabus. The aim of this repository is to build practical experience in simulation algorithms, data manipulation and optimisation. Doing this not only helps to improve my fundamentals in Python and teaches me new tools, but also gives me the skills to complete my own, more complex engineering projects alongside my degree.
 
 ## Contents
 figures/
@@ -57,7 +57,7 @@ scripts/
 
 ![Monte Carlo Distribution](figures/monte_carlo_histogram.png)
 
-The histogram shows that the total sums from the Monte Carlo simulation of a biased die converges to an approximately normal distribution, demonstrating the Central Limit Theroem even for non-uniform underlying probabilities.
+The histogram shows that the total sums from the Monte Carlo simulation of a biased die converges to an approximately normal distribution, demonstrating the Central Limit Theorem even for non-uniform underlying probabilities.
 
 ![Monte Carlo Distribution](figures/exponential_PDFs.png)
 
@@ -91,7 +91,7 @@ Through this repository, I have developed my understanding in the following area
  
 It has also been interesting to use and work upon statistical principles that I studied in Further Maths A Level in Python. Concepts like the Central Limit Theorem (CLT), PDFs, CDFs, uniform and non-uniform distributions (binomial, normal, exponential) and inverse functions are all areas that I have learnt about, but actually putting them into practice and implementing them into Python scripts has been very rewarding.
 
-I have also grown to appreciate the shear power of Python in running simulations and lengthy scripts, something I look forward to harnessing in more projects going forwards.
+I have also grown to appreciate the sheer power of Python in running simulations and lengthy scripts, something I look forward to harnessing in more projects going forwards.
 
 ## Future Plans
 There are a number of projects I would like to attempt over the coming months (this list will likely update and change as these are completed):
@@ -101,7 +101,7 @@ There are a number of projects I would like to attempt over the coming months (t
 - NASA data analysis using open datasets
 - any other tasks relevant to engineering and the aerospace industry
 
-I am currently working on an RC plane project outside of my degree, so I am hoping to incorporate Python into its design and improvements. With than in mind, this may become a large source of potential Python scripts in the future. As examples, I would like to explore methods for optimisation of variables like L/D, and a simple deskop GUI to visualise the plane's perfomance.
+I am currently working on an RC plane project outside of my degree, so I am hoping to incorporate Python into its design and improvements. With than in mind, this may become a large source of potential Python scripts in the future. As examples, I would like to explore methods for optimisation of variables like L/D, and a simple deskop GUI to visualise the plane's performance.
 
 ## License
 This project is for educational and research purposes.
